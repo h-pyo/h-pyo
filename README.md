@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there!! 👋
+
+My name is Harris Pyo and I am a student at Stevens Institute of Technology studying Computer Engineering. I am working towards becomming a full-stack developer and always eager to learn something new and meet new people! 
+
+If you want to learn more about me, then check out my portfolio website below!! 
+
+https://h-pyo.github.io/Portfolio/
+
 
 <!--
 **h-pyo/h-pyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
