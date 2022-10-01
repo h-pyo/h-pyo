@@ -1,6 +1,6 @@
 ### Hello there!! 👋
 
-My name is Harris Pyo and I am a student at Stevens Institute of Technology studying Computer Engineering. I am working towards becomming a full-stack developer and always eager to learn something new and meet new people! 
+My name is Harris Pyo and I am a student at Stevens Institute of Technology studying Computer Engineering. I am working towards becoming a full-stack developer and always eager to learn something new and meet new people! 
 
 If you want to learn more about me, then check out my portfolio website below!! 
 
