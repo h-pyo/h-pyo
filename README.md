@@ -4,7 +4,7 @@ My name is Harris Pyo and I am a student at Stevens Institute of Technology stud
 
 If you want to learn more about me, then check out my portfolio website below!! 
 
-https://h-pyo.github.io/Portfolio/
+https://harrispyo.netlify.app
 
 
 <!--
