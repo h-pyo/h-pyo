@@ -4,7 +4,7 @@ My name is Harris Pyo and I am a graduate student studying Computer Engineering 
 
 Check out my website and socials to connect and learn more about me!!  
 
-[![website](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge)](https://harrispyo.netlify.app/)
+[![website](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge)](https://harrispyo.com/)
 
 Email - <harrispyo@gmail.com>  
 LinkedIn - <https://www.linkedin.com/in/harris-pyo/>
